@@ -26,4 +26,4 @@ This pipeline is a foundational tool for epidemiological surveillance and bioinf
 
 Below is the comparative analysis of the retrieved *blaCTX-M* resistance genes, after filtering out whole-genome outliers:
 
-![AMR Gene Lengths](Fifure_1.png)
+![AMR Gene Lengths](Figure_1.png)
