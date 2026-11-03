@@ -22,3 +22,8 @@ This pipeline is a foundational tool for epidemiological surveillance and bioinf
 2. Run the retrieval script: `python descarga_masiva_amr.py`
 3. Run the analysis script: `python analisis_amr.py`
 4. The scripts will generate a `datos_amr_ecoli.csv` file and a visualization image.
+## Data Visualization
+
+Below is the comparative analysis of the retrieved *blaCTX-M* resistance genes, after filtering out whole-genome outliers:
+
+![AMR Gene Lengths](Fifure_1.png)
